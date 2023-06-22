@@ -29,7 +29,7 @@
     - 📄 Know about me and my experiences - https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link
 
 
-- 📄 Know about me and my experiences - https:/deepakthecoder1982/.github.io/
+- 📄 Know about me and my experiences - https:/deepakthecoder1982.github.io
 
 - ⚡️ Fun fact Html is a programming language
 
