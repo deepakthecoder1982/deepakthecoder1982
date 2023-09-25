@@ -18,9 +18,9 @@
 
 - 🌱 I’m currently learning React.js Redux and the chakra-UI framework
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepakthecoder1982/deepakthecoder1982.github.io](https://deepakthecoder1982.github.io)
+- 👨‍💻 All of my projects are available at https://deepakthecoder1982.github.io
 
-- 💬 Ask me about JavaScript, React, NodeJS, HTML, CSS, REDUX
+- 💬 Ask me about JavaScript, React, NodeJS, HTML, CSS, REDUX, Python, Django, Javascript, MySQL, MongoDB. 
 
 - 📫 How to reach me deepakyad18@gmail.com
 
